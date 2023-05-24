@@ -1,0 +1,8 @@
+Hand:,RIGHT
+V1:,df_c
+V2:,df_bl
+V3:,df_tl
+V4:,df_br
+Left:,dnf_c
+Right:,df_tr
+ID,Timestamp,isSubmitting,isCheckingCube,CurrentV1,CurrentV2,CurrentV3,CurrentV4,CurrentLeft,CurrentRight,Draging,isV1Correct,isV2Correct,isV3Correct,isV4Correct,isLeftCorrect,isRightCorrect,HandPosX,HandPosY
